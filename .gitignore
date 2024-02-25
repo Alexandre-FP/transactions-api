@@ -2,3 +2,4 @@ node_modules
 db/app.db
 .env
 README.MD
+.env.test

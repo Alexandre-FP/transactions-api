@@ -1,4 +1,4 @@
-// eslint-disable-next-line prettier/prettier
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { Knex } from 'knex'
 
 // aqui conseguimos que o knex consiga enteder quais tabelas e campos existe dentro do meu banco de dados

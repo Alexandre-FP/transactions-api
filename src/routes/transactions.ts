@@ -16,7 +16,7 @@ export async function transactions(app: FastifyInstance) {
   })
 
   app.get(
-    '',
+    '/',
     {
       preHandler: [checkSession],
     },
